@@ -32,8 +32,7 @@
   "main": "./lib",
   "dependencies": {
     "notp": "2.0.x",
-    "passport-strategy": "1.0.0",
-    "pkginfo": "0.2.x"
+    "passport-strategy": "1.0.0"
   },
   "devDependencies": {
     "mocha": "1.x.x",
